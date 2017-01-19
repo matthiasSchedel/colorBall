@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/VolumeController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BoxController.cs" Line="33" Column="17" />
+      <File FileName="Assets/Scripts/HighScore.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Lives.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="12" Column="42" />
+      <File FileName="Assets/Scripts/ChangeBallColor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Triangle.cs" Line="24" Column="27" />
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ScoreKeeper.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VolumeController.cs" Line="17" Column="4" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="19" Column="16" />
+      <File FileName="Assets/Scripts/PauseCanvas.cs" Line="9" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
